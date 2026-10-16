@@ -29,7 +29,7 @@ Answer the following questions:
 7. What is the purpose of AUTO_INCREMENT?
 -It automatically assigns a unique number to the primary key whenever a new row is added.
 8. What is the difference between UPDATE and DELETE?
-- UPDATE modifies existing data in a table, while DELETE removes entire rows of data from a table.
+-UPDATE modifies existing data in a table, while DELETE removes entire rows of data from a table.
 
 
 Sql 2
